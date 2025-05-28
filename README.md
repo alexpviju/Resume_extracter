@@ -70,17 +70,23 @@ Click the "Download CSV" button to get all parsed data in a structured CSV forma
 
 
 
+
 🧾 File Structure
-graphql
-Copy
-Edit
-resume-parser-app/
+
+task/
+
 ├── app.py                  # Main Flask app
+
 ├── templates/
+
 │   └── index.html          # Web UI
+
 ├── uploads/                # Uploaded PDF files (auto-created)
+
 ├── extracted_data.csv      # Generated CSV file      
+
 └── README.md               # Project documentation
+
 
 
 
